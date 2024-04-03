@@ -1,0 +1,20 @@
+{
+    "train": [
+        "urban16",
+        "urban11",
+        "urban10",
+        "urban09",
+        "urban06",
+        "urban15",
+        "urban17",
+        "urban07"
+    ],
+    "valid":[
+        "urban12"
+    ],
+    "test": [
+        "urban14",
+        "urban13",
+        "urban08"
+    ]
+}
