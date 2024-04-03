@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Others
+data/complexurban/*
+!data/complexurban/sets.json
+
 # Distribution / packaging
 .Python
 build/
