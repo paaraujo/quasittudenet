@@ -8,13 +8,13 @@ This repository contains the code used for the paper [QuasittudeNet: A Self-Supe
 
 # Installation
 
-The project was tested on `Ubuntu 20.04` and `Python 3.8.10`. Other used libraries can be found in the [requirements.txt](requirements.txt) file. After cloning the repository, you can create a custom environment using the following command:
+The project was tested on `Ubuntu 20.04` and `Python 3.8.10`. Other libraries used in this project can be found in the [requirements.txt](requirements.txt) file. After cloning the repository, you can create a custom environment using the following command:
 
 ```bash
 python3 python3 -m venv env
 ```
 
-The, proceed with the installation of the required libraries:
+Then, proceed with the installation of the required libraries:
 
 ```bash
 source env/bin/activate
